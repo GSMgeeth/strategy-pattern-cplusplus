@@ -5,6 +5,8 @@
 //  Created by Geeth Madhushan on 2022-03-18.
 //
 
+#pragma once
+
 #ifndef Strategy_hpp
 #define Strategy_hpp
 
